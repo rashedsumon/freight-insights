@@ -1,0 +1,12 @@
+# Python runtime (note for environment managers)
+python
+
+# Core libraries
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+kagglehub  # per your request; ensure configured correctly
+# Optional / helpful
+xgboost  # replace with lightgbm if preferred

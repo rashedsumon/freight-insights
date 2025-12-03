@@ -1,0 +1,24 @@
+# Byte-compiled / caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtualenv / venv
+venv/
+.env
+.env.*
+
+# Data and model artefacts
+/data/
+*.zip
+*.tar.gz
+models/
+*.joblib
+
+# Streamlit
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
