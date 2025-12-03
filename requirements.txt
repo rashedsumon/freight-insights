@@ -1,5 +1,5 @@
-# Python runtime (note for environment managers)
-python
+
+
 
 # Core libraries
 streamlit
